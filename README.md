@@ -1,5 +1,5 @@
 # WS-Studio
-WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢幕中同時顯示影片、歌詞及歌詞選單，同時也支援快速修改歌詞，包含文字大小、顏色、外框、類型...等功能。  
+WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢幕中同時顯示影片、歌詞及歌詞選單，同時也支援快速修改歌詞，包含文字大小、顏色、外框、字型...等功能。  
   
 <img src="https://github.com/shinn716/WS-Studio/blob/main/img/demov2.gif" /></a>  
 
