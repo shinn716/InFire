@@ -30,7 +30,7 @@ WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢
 2. 鍵盤上鍵，Dashboard 捲軸向上捲動、捲軸向下捲動。
 
 ## 新增/更換歌詞
-1. **新增歌詞（xxx.txt）**  
+1. **修改歌詞（xxx.txt）**  
   a. 開啟文字檔  
 從路徑開啟文字檔，``.../WS_Studio/WS_Studio_Data/StreamingAssets/lyrics/歌名1.txt``  
 右鍵開啟（Windows使用Note開啟或任何文字編輯軟體）  
@@ -47,7 +47,7 @@ WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢
 <img src="https://github.com/shinn716/WS-Studio/blob/main/img/Snipaste_2021-10-31_16-46-17.png" width=20% height=20% /></a>  
 勿使用[1]歌名、（1）歌名、1_歌名，命名方式只能使用 **1歌名**，系統會自動抓取檔名（並去除數字）顯示在主、副顯示器中。  
   
-2. **新增設定檔（xxx.json）**  
+2. **修改設定檔（xxx.json）**  
   a. 開啟設定檔  
 從路徑開啟文字檔，``.../WS_Studio/WS_Studio_Data/StreamingAssets/lyrics/歌名1.json``  
 右鍵開啟（Windows使用Note開啟或任何文字編輯軟體）  
@@ -76,5 +76,8 @@ https://www.w3schools.com/colors/colors_picker.asp.
 1. 將影片複製至 ``.../WS_Studio/WS_Studio_Data/StreamingAssets/videos/``
 2. 設定檔 VideoUrl 修改成對應名稱（注意副檔名，.mp4 / .mov）
   
+**5. 新增歌詞**
+1. 只需將 ``1歌名1.txt``、``1歌名1,json`` 複製，並將檔名修改即可 ``2歌名2.txt``、``2歌名2,json``。
+    
 ## LICENSE
 [MIT](LICENSE.md)
