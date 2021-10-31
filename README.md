@@ -38,10 +38,10 @@ WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢
 (照片為MAC OS系統，建議使用 Windows 環境下修改)  
   b. 修改或新增歌詞  
 依照以下照片規則新增歌詞  
-<img src="https://github.com/shinn716/WS-Studio/blob/main/img/Snipaste_2021-10-31_15-48-40.png" width=50% height=50% /></a>
+<img src="https://github.com/shinn716/WS-Studio/blob/main/img/Snipaste_2021-10-31_15-48-40.png" width=50% height=50% /></a>  
   c. Dashboard 文字外框提示  
 顯示在主畫面的 Dashboard，提示：副顯示會自動把歌詞中的 V、C、B、P，這幾個文字過濾，不會顯示在螢幕上  
-**V**表示為主歌（綠色）、**Ｃ**表示為副歌（紅色）、**B**表示為Bridge（藍色）、**P**表示為PreC（青色） 
+**V**表示為主歌（綠色）、**Ｃ**表示為副歌（紅色）、**B**表示為Bridge（藍色）、**P**表示為PreC（青色）  
   d. 設定歌詞順序  
 在檔名部分標頭加入數字，讓系統自動排序，如下圖：  
 <img src="https://github.com/shinn716/WS-Studio/blob/main/img/Snipaste_2021-10-31_16-46-17.png" width=20% height=20% /></a>  
