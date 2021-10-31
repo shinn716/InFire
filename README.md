@@ -80,3 +80,6 @@ https://www.w3schools.com/colors/colors_picker.asp.
 此工具為免費軟體，提供教會及校園免費使用，禁止商業使用、販售等行為。若為其他用途，請告知作者，以下為聯繫方式。
 shinn716@livemail.tw  
 John.TC.Tsai 
+
+## LICENSE
+[MIT](LICENSE.md)
