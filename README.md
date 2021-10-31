@@ -70,7 +70,7 @@ WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢
 }
 ```
 顏色修改為 hex color，請參考以下網址：  
-https://www.htmlcsscolor.com/hex/FFFF00
+https://www.w3schools.com/colors/colors_picker.asp. 
   
 **4. 新增影片**
 1. 將影片複製至 ``.../WS_Studio/WS_Studio_Data/StreamingAssets/videos/``
