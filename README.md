@@ -75,11 +75,6 @@ https://www.w3schools.com/colors/colors_picker.asp.
 **4. 新增影片**
 1. 將影片複製至 ``.../WS_Studio/WS_Studio_Data/StreamingAssets/videos/``
 2. 設定檔 VideoUrl 修改成對應名稱（注意副檔名，.mp4 / .mov）
-
-## 授權
-此工具為免費軟體，提供教會及校園免費使用，禁止商業使用、販售等行為。若為其他用途，請告知作者，以下為聯繫方式。
-shinn716@livemail.tw  
-John.TC.Tsai 
-
+  
 ## LICENSE
 [MIT](LICENSE.md)
