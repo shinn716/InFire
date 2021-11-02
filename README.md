@@ -3,6 +3,9 @@ WS-Studio（Worship Studio）是一個用於敬拜的簡報軟體，在延伸螢
   
 <img src="https://github.com/shinn716/WS-Studio/blob/main/img/demov2.gif" /></a>  
 
+## 下載連結
+https://github.com/shinn716/WS-Studio/releases
+
 ## 環境
  - 支援平台：Windows
  - 支援語言：中文
