@@ -80,4 +80,4 @@ https://www.w3schools.com/colors/colors_picker.asp.
 1. 只需將 ``1歌名1.txt``、``1歌名1,json`` 複製，並將檔名修改即可 ``2歌名2.txt``、``2歌名2,json``。
     
 ## LICENSE
-[MIT](LICENSE.md)
+[Apache 2.0 license](LICENSE)
